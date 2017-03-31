@@ -1,8 +1,6 @@
-#include <iostream>
+#include "Punct_stream.h"
 
-using namespace std;
+int main()
+{
 
-int main() {
-	cout << "TEST\n";
-	return 0;
 }
